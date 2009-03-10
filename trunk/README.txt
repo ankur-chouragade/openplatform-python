@@ -1,3 +1,9 @@
+Dependencies
+============
+
+* simplejson
+* httplib2 (optional, enables caching)
+
 Usage
 =====
 
